@@ -11,5 +11,6 @@ venv/
 # VS Code configuration file.
 .vscode/
 
-notes.md
+GENERAL NOTES.md
+Game-Overview.md
 .DS_Store
