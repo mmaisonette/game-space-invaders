@@ -14,4 +14,4 @@ Space Invaders is credited with popularizing video games and helping to establis
 
 Overall, Space Invaders remains a beloved classic that continues to be enjoyed by gamers of all ages, even decades after its initial release. Its simple yet addictive gameplay and iconic design ensure that it will be remembered as one of the most important and influential games of all time.
 
-``python`` ``alien_invasion`` ``game_development`` ``programming``
+``space_invaders`` ``game_development`` ``programming`` ``python``
